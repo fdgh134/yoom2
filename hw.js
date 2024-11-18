@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var user = {
   name: "john",
   age: 20,
@@ -25,4 +26,3 @@ var agedUserMustBeDifferentFromUser = function (user1, user2) {
   }
 }
 
-agedUserMustBeDifferentFromUser(user, agedUser);
